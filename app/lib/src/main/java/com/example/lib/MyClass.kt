@@ -65,6 +65,7 @@ fun main(){
         while(counter < 30)
 
     println("Cambio wiu wiu")
+    //cambio pendiente
 }
 
 
