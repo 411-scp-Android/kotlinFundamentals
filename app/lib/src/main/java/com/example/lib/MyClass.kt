@@ -70,6 +70,8 @@ fun main(){
     val variable = ""
     val testing = 12
     val nose = 12
+
+    //creando la funcionalidad de regitrarse en la app
 }
 
 
