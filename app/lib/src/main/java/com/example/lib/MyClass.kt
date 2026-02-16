@@ -73,6 +73,7 @@ fun main(){
 
     //creando la funcionalidad de regitrarse en la app
     //creando la conexion con la api
+    //creando la interfaz grafica de mi app
 }
 
 
