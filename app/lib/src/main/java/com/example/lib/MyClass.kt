@@ -67,9 +67,9 @@ fun main(){
     println("Cambio wiu wiu")
     //cambio pendiente
     //cambio que se me olvido
-    val variable
-    val testing
-    val nose
+    val variable = ""
+    val testing = 12
+    val nose = 12
 }
 
 
