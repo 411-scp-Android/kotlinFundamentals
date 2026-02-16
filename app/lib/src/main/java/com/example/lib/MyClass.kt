@@ -79,6 +79,7 @@ fun main(){
     //creando la UI de login
     //creando pantalla de inicio
     //creando la interfaz
+    //creando conexion a la api
 }
 
 
