@@ -75,7 +75,7 @@ fun main(){
     //creando la conexion con la api
     //creando la interfaz grafica de mi app
     //creando el login
-
+    //creando conexion a la api de login
 }
 
 
